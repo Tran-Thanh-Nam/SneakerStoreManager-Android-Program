@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.NikeActivity">
+    <android.support.v7.widget.Toolbar
+        android:background="#716562"
+        app:titleTextColor="#f9f6f5"
+        app:title="Nike"
+        android:id="@+id/toolbarnike"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"></android.support.v7.widget.Toolbar>
+        <ListView
+            android:id="@+id/listviewnike"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></ListView>
+</LinearLayout>
