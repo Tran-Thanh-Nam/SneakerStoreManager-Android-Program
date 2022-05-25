@@ -1,8 +1,5 @@
 # SneakerStoreManager-Android-Program
-## Dùng PHP + Xampp.
-
-
-
+## Dùng Android studio + Xampp.
 ## Mô tả về phạm vi hoạt động:
 
 -	Tên hệ thống: Quản lý shop bán giày online
@@ -42,7 +39,6 @@ Xây dựng hệ thống bao gồm ứng dụng chạy trên điện thoại và
  - Android SDK 
 - C# 
 - Web Sevice 
-
 - Java 
 - HTML
  - SQL Server 
@@ -61,60 +57,53 @@ Xây dựng hệ thống bao gồm ứng dụng chạy trên điện thoại và
 
 #### Trang chủ:
 
- 
+ ![image](https://user-images.githubusercontent.com/101527833/170240133-9e91767c-398a-43ae-9879-c3a2efbca244.png)
 
 #### Thanh Menu:
 
- 
-
+![image](https://user-images.githubusercontent.com/101527833/170240172-16a1bb44-a77e-4021-a572-d26930e8268a.png)
 
 #### Giao diện giày Nike:
 
- 
-
+![image](https://user-images.githubusercontent.com/101527833/170240227-ab3ef000-6475-4f82-8791-b8567165e3f9.png)
 
 #### Giao diện giày Adidas:
 
- 
-
+![image](https://user-images.githubusercontent.com/101527833/170240261-cd8a04be-6497-4034-a014-9959453370d0.png)
 
 #### Giao diện Liên Hệ: 
  
-
-
+ ![image](https://user-images.githubusercontent.com/101527833/170240323-8e7e89b6-61f5-4ec7-ab41-d62627138009.png)
 
 #### Giao diện Thông Tin:
 
- 
-
+![image](https://user-images.githubusercontent.com/101527833/170240362-2702f268-496f-4642-8a2c-7c3c6575e575.png)
 
 #### Giao diện Giỏ Hàng:
  
-
-
+![image](https://user-images.githubusercontent.com/101527833/170240394-5ae6dc43-8608-4b53-8244-76461653b0ee.png)
 
 #### Giao diện Sản phẩm:
  
-
+ ![image](https://user-images.githubusercontent.com/101527833/170240440-00dcc175-d628-4e06-982b-73b27e872405.png)
 
 #### Giao diện khi mua hàng:
- 
 
-
+ ![image](https://user-images.githubusercontent.com/101527833/170240472-e67ead10-8f6c-48ae-8dd2-56a38d0a809e.png)
 
 ### Dữ liệu:
 
 #### Dữ liệu chính:
 
- 
-
-
+![image](https://user-images.githubusercontent.com/101527833/170240514-776b3fd8-5443-43fa-bcd9-4e3dc2dab10e.png)
 
 #### Dữ liệu loại sản phẩm:
 
- 
- 
+![image](https://user-images.githubusercontent.com/101527833/170240545-c57870b6-5f1e-4c02-9cf7-b4748bff06ae.png)
+
 #### Dữ liệu sản phẩm:
+
+![image](https://user-images.githubusercontent.com/101527833/170240570-f56b16a8-2f1b-4ac6-a680-7dd109543bce.png)
 
  
  
